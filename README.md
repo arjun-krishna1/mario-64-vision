@@ -3,7 +3,7 @@
 - For this reason: https://twitter.com/realGeorgeHotz/status/1758451210892329127
 
 
-[https://github.com/arjun-krishna1/mario-64-vision/assets/45014214/58d9e45d-ff75-4286-9e5a-bb06c1448f98](https://github.com/arjun-krishna1/mario-64-vision/blob/a8d6c452122127152f519b0a71f4d505a6479306/mario.mp4)
+https://github.com/arjun-krishna1/mario-64-vision/blob/a8d6c452122127152f519b0a71f4d505a6479306/mario.mp4
 
 
 ## Algorithm
