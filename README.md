@@ -2,6 +2,10 @@
 - Playing Super Mario 64 with GPT-4V
 - For this reason: https://twitter.com/realGeorgeHotz/status/1758451210892329127
 
+
+https://github.com/arjun-krishna1/mario-64-vision/assets/45014214/58d9e45d-ff75-4286-9e5a-bb06c1448f98
+
+
 ## Algorithm
 1. capture game output screenshot
 2. Ask following questions:
