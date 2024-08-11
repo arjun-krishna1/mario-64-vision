@@ -20,6 +20,7 @@ answers to all questions
 last 10 moves
 
 ## IMPROVEMENTS
+- Update to use GPT-4o-mini for lower latency and cost
 - Run LLaVa and ollama locally to reduce action latency
 - Create long-term plans (not just next move)
 - If stuck take a 360 degree look, do a scout loop
